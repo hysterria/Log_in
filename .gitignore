@@ -2,7 +2,7 @@
 # https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore#git-ignore-patterns
 #
 
-build_*/
+build*/
 lib/
 
 *.exe
